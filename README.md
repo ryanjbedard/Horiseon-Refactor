@@ -8,10 +8,6 @@ The motivation was to take the client's existing website and refactor it in orde
 
 Click the links at the top of the page in order to navigate to the desired section or scroll down as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 Horiseon Social Solution Services
