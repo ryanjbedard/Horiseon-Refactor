@@ -1,4 +1,4 @@
-/* General structure */
+/* Overall box size */
 
 * {
     box-sizing: border-box;
@@ -6,17 +6,24 @@
     margin: 0;
 }
 
-
+/* Navigation bar link text color and style */
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* All paragraph text font size */
 p {
     font-size: 16px;
 }
 
+/* Body background color */
+body {
+    background-color: #d9dcd6;
+}
+
+/* Background image behind header and site content */
 #hero {
     height: 800px;
     width: 100%;
@@ -26,8 +33,7 @@ p {
     background-position: center;
 }
 
-/* Header */
-
+/* Header box formatting */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,22 +41,21 @@ p {
     color: #ffffff;
 }
 
-.header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 #seo {
     color: #d9dcd6;
+}
+
+/* Header navigation list display */
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
 }
 
 .header nav {
@@ -61,7 +66,7 @@ body {
     font-size: 20px;
 }
 
-/* Content left section */
+/* Left section content rows */
 
 #content {
     width: 75%;
@@ -88,6 +93,8 @@ body {
     margin-left: 25px;
 }
 
+
+/* All images in left section height */
 .content-images {
     max-height: 200px;
 }
@@ -126,6 +133,8 @@ body {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Styling for the year, company name and footer message. */
 
 .footer {
     padding: 30px;
