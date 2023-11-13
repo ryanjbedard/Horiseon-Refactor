@@ -8,9 +8,12 @@ The motivation was to take the client's existing website and refactor it in orde
 
 Click the links at the top of the page in order to navigate to the desired section or scroll down as needed.
 
+![alt text](./Assets/images/Screenshot%202023-10-22%20160626.png)
+
 ## Credits
 
 Horiseon Social Solution Services
 
 ## License
+
 N/A
